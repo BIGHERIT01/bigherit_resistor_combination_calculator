@@ -1,4 +1,4 @@
-#BigHerit Resistance Calculator
+BigHerit Resistance Calculator
 
 What it does
 
@@ -11,7 +11,7 @@ How to run it
 1. Install Python 3.
 2. Download the Python file.
 3. Open the file using a Python editor such as Pydroid 3.
-4. Run the program and select an option from the menu.
+4. Run "resistance_calculator.py" and select an option from the menu.
 
 Features
 
@@ -24,9 +24,7 @@ Features
 
 Sample Output
 
-================================
-   BIGHERIT RESISTANCE CALCULATOR
-================================
+BIGHERIT RESISTANCE CALCULATOR
 1. Calculate resistance
 2. Compare resistors
 3. Exit
@@ -53,6 +51,6 @@ I applied Python functions, lists, loops and conditional statements to build an 
 
 Author
 
-Omoniyi Inioluwa Gabriel 
+Omoniyi Inioluwa Gabriel
 ND2 Mechatronics Engineering
 Yaba College of Technology
